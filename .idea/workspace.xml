@@ -31,10 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.49097472">
+            <state line="16" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first_app/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.092057765">
               <folding />
             </state>
           </provider>
@@ -46,12 +55,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/first_app/.gitignore" />
+        <option value="$PROJECT_DIR$/first_app/README.rdoc" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2414" />
-    <option name="y" value="170" />
+    <option name="x" value="2509" />
+    <option name="y" value="317" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -155,7 +165,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2414" y="170" width="683" height="728" extended-state="0" />
+    <frame x="2509" y="317" width="683" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -239,7 +249,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first_app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.49097472">
+        <state line="16" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_app/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.092057765">
           <folding />
         </state>
       </provider>
